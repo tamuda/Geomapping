@@ -13,6 +13,9 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+
+// Tamuda Chimhanda (tchimhan@u.rochester.edu)
+// Ameenul Haque (ahaque@u.rochester.edu)
 /**Creates Canvas and Renders The Components**/
 public class Canvas extends JPanel {
     /**

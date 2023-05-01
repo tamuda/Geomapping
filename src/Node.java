@@ -1,5 +1,10 @@
 import java.util.HashMap;
-/**This class represnts an Intersection/ a Node**/
+/**This class represents an Intersection/ a Node**/
+
+// Tamuda Chimhanda (tchimhan@u.rochester.edu)
+// Ameenul Haque (ahaque@u.rochester.edu)
+
+
 public class Node implements Comparable<Node> {
     double distToSource;
     String id;

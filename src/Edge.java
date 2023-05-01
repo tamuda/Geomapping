@@ -1,3 +1,10 @@
+//this code use to find distance between two edges (in meters)
+//the code was derived from the following link
+// https://github.com/jasonwinn/haversine/blob/master/Haversine.java
+
+// Tamuda Chimhanda (tchimhan@u.rochester.edu)
+// Ameenul Haque (ahaque@u.rochester.edu)
+
 public class Edge {
     String id;
     double weight;
@@ -9,9 +16,7 @@ public class Edge {
         this.id = id;
     }
 
-    //this code use to find distance between two edges (in meters)
-    //the code was derived from the following link
-    // https://github.com/jasonwinn/haversine/blob/master/Haversine.java
+
     private static double haversin(double val) {
         return Math.pow(Math.sin(val / 2), 2);
     }

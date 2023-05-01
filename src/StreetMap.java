@@ -12,6 +12,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+
+// Tamuda Chimhanda (tchimhan@u.rochester.edu)
+// Ameenul Haque (ahaque@u.rochester.edu)
+
 /**
  * Main class
  */

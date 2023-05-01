@@ -7,6 +7,10 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Stack;
+
+// Tamuda Chimhanda (tchimhan@u.rochester.edu)
+// Ameenul Haque (ahaque@u.rochester.edu)
+
 /**This class is to do all Graph theory related computations of our map**/
 public class Graph {
     // Store list of vertices in a hash set to prevent duplicates
