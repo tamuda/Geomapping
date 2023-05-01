@@ -1,0 +1,5 @@
+i	Vishad	45	50
+i	Raj	44	54
+i	Pokharel	56	12
+r	r119	Raj	Vishad
+r	r119	Raj	Pokharel
